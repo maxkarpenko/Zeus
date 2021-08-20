@@ -1,5 +1,5 @@
 # Zeus the Mighty
-![Build and Test](https://github.com/maxkarpenko/Zeus/actions/workflows/Build%20and%20Test/badge.svg)
+[![CI](https://github.com/maxkarpenko/Zeus/actions/workflows/main.yml/badge.svg)](https://github.com/maxkarpenko/Zeus/actions/workflows/main.yml)
 
 ## Howe to use it?
 See [detail instruction here](https://github.com/Kovalevskyi-Academy/AcademyWiki/wiki/General:-Zeus-XX)!
