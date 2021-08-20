@@ -1,6 +1,5 @@
 # Zeus the Mighty
-![example workflow](https://github.com/maxkarpenko/Zeus/actions/workflows/<WORKFLOW_FILE>/badge.svg)
-
+![Build and Test](https://github.com/maxkarpenko/Zeus/actions/workflows/Build%20and%20Test/badge.svg)
 
 ## Howe to use it?
 See [detail instruction here](https://github.com/Kovalevskyi-Academy/AcademyWiki/wiki/General:-Zeus-XX)!
