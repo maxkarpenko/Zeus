@@ -1,4 +1,6 @@
 # Zeus the Mighty
+![example workflow](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.svg)
+
 
 ## Howe to use it?
 See [detail instruction here](https://github.com/Kovalevskyi-Academy/AcademyWiki/wiki/General:-Zeus-XX)!
